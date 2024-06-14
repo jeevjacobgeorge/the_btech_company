@@ -20489,3 +20489,8 @@ ME18B156
   overflow: hidden;
   transition: max-height 0.5s ease-in-out;
 }
+.logo_div{
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
