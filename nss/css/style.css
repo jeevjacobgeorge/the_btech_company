@@ -9074,7 +9074,8 @@ html .page .rd-navbar-fixed .rd-navbar-fixed--hidden {
 .rd-navbar-fixed .rd-navbar-panel {
   color: #000;
   box-shadow: none;
-  background: #fff;
+  background: #E9E9E8;
+
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
