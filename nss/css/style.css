@@ -334,7 +334,7 @@ h1,
 @media (min-width: 1200px) {
   h1,
   .heading-1 {
-    font-size: 80px;
+    font-size: 50px;
   }
 }
 
@@ -7733,7 +7733,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-static {
   display: block;
   padding: 0 15px;
-  background-color: #fff;
+  background-color: #E9E9E8;
   box-shadow: 0 2px 12px rgba(136, 136, 136, 0.1);
 }
 
