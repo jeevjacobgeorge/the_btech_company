@@ -937,7 +937,7 @@ span.button {
     line-height: 1.54167;
   }
   * + .blurb__title {
-    margin-top: 45px;
+    margin-top: 25px;
   }
 }
 
@@ -20458,10 +20458,7 @@ body:not(.lg-from-hash)
   content: "\a9";
 }
 
-/* 
-Mukesh
-ME18B156 
-*/
+
 
 .accordion {
   background-color: #eee;
@@ -20477,10 +20474,9 @@ ME18B156
   margin-top: 40px;
 }
 
-.active,
-.accordion:hover {
-  background-color: rgb(86, 236, 216);
-  border-radius: 13px;
+.active {
+  
+
 }
 
 .panel {
@@ -20495,4 +20491,19 @@ ME18B156
   gap:12px;
   align-items:center;
 }
+
+.details p, a{
+  margin:0;
+}
+
+center h3{
+  margin-block-start:-35px;
+  margin-block-end: 60px;
+}
+
+
+
+
+
+
 
